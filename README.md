@@ -12,8 +12,8 @@ Project feature:
 1. post image and text
 2. edit image and text
 3. delete image and text
-4. user able to sign up, sign in and logout blog
-5. page will display current login user information
+4. allow user to sign up, sign in and logout 
+5. display current login user information
 6. API - display time 
-7. Chat - allow users who signed in to chat with each other on the side
+7. Chat - allow users to chat with each other 
 
